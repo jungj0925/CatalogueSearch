@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CatalogueSearch/static/css/main.41c0bab1.css",
+    "main.js": "/CatalogueSearch/static/js/main.a8fcb482.js",
+    "static/js/787.8477bb02.chunk.js": "/CatalogueSearch/static/js/787.8477bb02.chunk.js",
+    "index.html": "/CatalogueSearch/index.html",
+    "main.41c0bab1.css.map": "/CatalogueSearch/static/css/main.41c0bab1.css.map",
+    "main.a8fcb482.js.map": "/CatalogueSearch/static/js/main.a8fcb482.js.map",
+    "787.8477bb02.chunk.js.map": "/CatalogueSearch/static/js/787.8477bb02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41c0bab1.css",
+    "static/js/main.a8fcb482.js"
+  ]
+}
